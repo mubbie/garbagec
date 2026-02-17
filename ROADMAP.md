@@ -2,6 +2,8 @@
 
 A garbage collection library for C, built incrementally as a learning project.
 
+Guide/roadmap generated using Claude.
+
 ## Project Setup
 
 ### Structure
